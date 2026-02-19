@@ -1,5 +1,8 @@
-# Français
-## Projet ClearData - Gestion de la Qualité de l'Air
+# ClearData Project - Air Quality Management System
+
+This project is for educational purposes only.
+
+## Français
 ### Présentation du Projet
 Ce projet a été réalisé dans le cadre d'une simulation pour le Ministère de la Transition Écologique. L'objectif est de centraliser les données de mesure de la qualité de l'air collectées par des agences régionales, autrefois stockées de manière éparse dans des tableurs.Le système permet de gérer :
 - Le personnel des agences (RH, chefs d'agence, agents techniques et administratifs).
@@ -36,8 +39,7 @@ Le projet inclut un script de tests répondant à 12 besoins métier complexes, 
 Les données RH (dates de naissance, adresses) sont fictives. Les identifiants uniques utilisés ne sont pas des données sensibles (pas de numéros de Sécurité Sociale) afin de respecter la confidentialité des employés.
 
 
-# English
-## ClearData Project - Air Quality Management System
+## English
 ### Project Overview
 This project was developed as part of a simulation for the French Ministry of Ecological Transition. The primary objective is to centralize air quality measurement data collected by regional agencies, which was previously stored in scattered spreadsheets.The system manages:
 - Agency Personnel: HR management for branch managers, technical staff, and administrative agents.
