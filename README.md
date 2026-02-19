@@ -71,3 +71,21 @@ The project includes a test script addressing 12 complex business requirements, 
 
 ## Legal & GDPR Aspects
 HR data (birth dates, addresses) is entirely fictitious. The unique identifiers used are not sensitive (no Social Security numbers) to ensure employee confidentiality and data privacy compliance.
+
+## How to Run the Code
+To get this database up and running on your local machine, follow these steps:
+
+### 1. Prerequisites
+- A SQL database engine installed (e.g., MySQL, PostgreSQL, or SQL Server).
+
+- A database client like DBeaver, MySQL Workbench, or even the command line.
+
+### 2. Setup the Database
+- Open your SQL client and connect to your local server.
+- Create a new database:
+```CREATE DATABASE AirQualityDB;```
+- Run the scripts in the following order:
+
+  - Schema Creation: Run the file that defines the tables (e.g., create_tables.sql). This will set up tables for Employees, Sensors, AirQualityReadings, etc.
+
+  - Data Insertion: Run the file containing the sample data (e.g., insert_data.sql) to populate the tables.
